@@ -1,0 +1,52 @@
+html { height: 100% 
+}
+body{
+	margin:0;
+	background-image: url('sfTwinPeak.png');
+	background-size: cover;
+}
+h1{
+	text-align: center;
+	font-size: 46px;
+	text-shadow: 2px 2px 5px #888888;
+	font-family: Montserrat;
+
+}
+#navBar{
+	top:10px;
+	background-color: white;
+	box-shadow: 10px 10px 5px #888888;
+	width: 100%;
+	height: 50px;
+}
+#space{
+}
+
+ul{
+	padding:5px;
+	text-align: center;
+}
+li{
+	list-style-type: none; 
+	display: inline-block;
+	margin: 0;
+	padding:5px;
+	position: relative;
+}
+a{
+	text-decoration: none;
+	text-shadow: 2px 2px 5px #888888;
+	font-family: Montserrat;
+	color: black
+}
+.bar-motion{
+	font-size: 23px;
+	letter-spacing: 5px;
+}
+#bottom{
+	text-align: center;
+	letter-spacing: 5px;
+	font-family: Georgia;
+	bottom:800px;
+	color:white;
+}
