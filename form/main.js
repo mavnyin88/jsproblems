@@ -26,6 +26,7 @@ $('#submit').click(function(e){
 		e.preventDefault();
 		$('#display').show(1000);
 		$('#display2').show(1000);
+		
 	}
 	else if(username!=user){
 		e.preventDefault();
