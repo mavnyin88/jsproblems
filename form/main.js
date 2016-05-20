@@ -5,7 +5,7 @@ $(document).ready(function(){
  $('#displayNull').hide();
  $('#displayNullPass').hide();
 
-var user = "StudentTTP";
+var user = "mavnyin88@gmail.com";
 var pass = "12345";
 $('#submit').click(function(e){
 	var username = $('#username').val();
